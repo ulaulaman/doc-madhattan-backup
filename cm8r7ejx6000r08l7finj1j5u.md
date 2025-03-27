@@ -1,0 +1,30 @@
+---
+title: "Ludolph van Ceulen: in searching of pi"
+datePublished: Mon Mar 14 2016 22:15:00 GMT+0000 (Coordinated Universal Time)
+cuid: cm8r7ejx6000r08l7finj1j5u
+slug: ludolph-van-ceulen-in-searching-of-pi
+
+---
+
+
+[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1743070890616/83b4cc84-62ed-4817-a2a1-91cd2d535d32.jpeg)](https://commons.wikimedia.org/wiki/File:Ludolf_van_Ceulen.jpeg)
+
+One of the most important mathematicians for $\\pi$, was **Ludolph van Ceulen**, German mathematician born 28 January 1540 in Hildesheim. His father, **Johannes Van Ceulen**, was a small trader who could not afford advanced education for a son who showed some interest in mathematics. The main difficulty for Ludolph studies was the Latin, the language in which they were written the basic texts as well as the more recent ones in mathematics and science at the time. And Latin was a subject to be advanced studies.  
+Another fundamental challenge was the particular historical period in which Ludolph lived. At that time, in fact, life for Protestants was rather complicated: the Spanish Inquisition was, in fact, powerful enough to extend his _long hands_ even in Germany. The Van Ceulen's, as Protestants, were forced, like many in the same conditions, to migrate to the most welcoming Netherlands of Prince William of Orange.  
+On the other hand Ludolph himself was a traveler: immediately after his father's death became a little travel first in the region of Livonia (Latvia and Estonia in our age), then to Antwerp to visit his brother Gert and then to Delft in the Netherlands where he settled for a time, since there was born one of his five daughter on May 4th, 1578.  
+His wife, **Mariken Jansen**, died in 1590, but Ludolph remarriage on June 17th of that year with **Adriana Simondochter**, widow of **Bartholomew Cloot**, accounting and math teacher, with whom he had generated eight children, for a total of 13 mouths to feed. The two families, Cloot and Van Ceulen, were in a close relations of friendship, so it's pretty obvious to imagine that the marriage between Ludolph and Adriana was the best solution to avoid losing a strong relationship.  
+Ludolph's other passion besides mathematics was fencing and one of his first tasks was to establish a fencing school in Delft in 1580, with the blessing (and probably also the funds) of the municipality. The stay in Delft, however, was also full of mathematical ideas: in the best tradition of the time, mathematicians challenged each other, in this case with strokes of articles. Van Ceulen received some challenges like that from **William Goudaan** of Haarlem on a geometrical problem: the first solution proved incorrect, as Van Ceulen wrote in a separate article in 1584.  
+A second and more important challenge came with **Simon van der Eycke**, who in 1584 proposed a demonstration on the squaring of the circle. In two articles of 1585 and 1586 Van Ceulen showed the error in the work of van der Eycke and probably it was these works that prompted him to approach the work of **Archimedes**. To be able to study and appreciate his works was, however, necessary to overcome the main obstacle: the treaties of the greek mathematician was only divulged in Latin. Luckily for Ludolph came to help the mayor of Delft, **Jan Cornets de Groot**, who translated him the Archimedes' treaties and that was how Van Ceulen devoted most of his mathematical activity to calculate $\\pi$ and more possible number of its decimal digits.  
+The first important finding in his research was published in the treaty _Vanden circkel_ (_On the circle_) in 1596 where he presented 20 correct decimals for $\\pi$, where a polygon of $15 \\cdot 2^{31}$ sides was used. Next, using a polygon with $2^{62}$ sides, he came to 35 decimal places: this result was published posthumously, first in an article published in 1615 on the initiative of Adriana Simondochter, where 33 of the 35 figures were published, and in 1621 on the _Cyclometricus_ by his pupil **Willebrord Snell**, which also translated into Latin some of Van Ceulen's papers to allow a greater spread.  
+His method, variation than Archimedes' exaustion, leads to the formula that could be called _the formula of Van Ceulen_ \\\[\\pi = n \\sin \\frac{180^\\circ}{n}\\\] To obtain it, we take a circle of radius $\\frac{1}{2}$, so that the circumference is equal to $\\pi$. Given any regular polygon inscribed within the circumference, its perimeter will be given by the product of $n$ sides to the side length $l$. We take a given side: being a rope in a circle, it is perpendicular to the radius through the midpoint, thus generating two right triangles with the vertex angle $O$, center of the circle, equal to $\\theta$. By using the law of sines, it is easy to see that \\\[\\sin \\theta = 2 \\frac{l}{2} = l\\\] so the perimeter of the polygon will be given by \\\[n \\sin \\theta\\\] Inside polygon we can build $2n$ right-angled triangles, then dividing the angle around the number of the sides we get the value of $\\theta = \\frac{360^\\circ}{2n} = \\frac{180^\\circ}{n}$ and from here the formula of Van Ceulen, the result of which will be closer to the value of $\\pi$ as the number of sides of the polygon.
+
+* * *
+
+Like Archimedes, even Van Ceulen produced a maximum limit 3.14159265358979323846264338327950289, and a minimum limit, 3.14159265358979323846264338327950288, carved on his tombstone in that of Leyden.
+
+* * *
+
+[Van Ceulen on MacTutor](http://www-groups.dcs.st-and.ac.uk/~history/Biographies/Van_Ceulen.html)  
+Bary Cipra, _Digist of Pi_, [What's Happening in the Mathematical Sciences](http://www.ams.org/samplings/math-history/happening-series), Vol. 6 ([pdf](http://www.ams.org/samplings/math-history/hap-6-pi.pdf))  
+(2000) Computing Pi-oneer. Science, 289(5477), 241e-241.  
+Video: [How to calculate Pi](https://www.youtube.com/watch?v=DLZMZ-CT7YU)
