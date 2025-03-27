@@ -1,0 +1,36 @@
+---
+title: "Nuclear accidents: abstract about Fukushima and video from France"
+datePublished: Mon Sep 12 2011 14:52:00 GMT+0000 (Coordinated Universal Time)
+cuid: cm8r8sa0s000109lab7dtgb7b
+slug: nuclear-accidents-abstract-about-fukushima-and-video-from-france
+
+---
+
+
+In the last hours (around 12) it was a nuclear accident in France, [at the Marcoule nuclear site](http://www.bbc.co.uk/news/world-europe-14883521). Waiting for news from France (in the end of the post I embed a youtube video), I propose you some recent abstracts about Fukushima's radiation in world:  
+First of all I share [Elevated radioxenon detected remotely following the Fukushima nuclear accident](http://dx.doi.org/10.1016/j.jenvrad.2011.04.009) by **T.W.Boyer** _et al._ (via [Science Daily](http://www.sciencedaily.com/releases/2011/09/110909195140.htm)):
+
+> We report on the first measurements of short-lived gaseous fission products detected outside of Japan following the Fukushima nuclear releases, which occurred after a 9.0 magnitude earthquake and tsunami on March 11, 2011. The measurements were conducted at the Pacific Northwest National Laboratory (PNNL), (46°16′47″N, 119°16′53″W) located more than 7000 km from the emission point in Fukushima Japan (37°25′17″N, 141°1′57″E). First detections of 133Xe were made starting early March 16, only four days following the earthquake. Maximum concentrations of 133Xe were in excess of 40 Bq/m3, which is more than ×40,000 the average concentration of this isotope is this part of the United States.
+
+I try to request, via ResearchGate, a copy of the article. I don't know if I'll receive it. But after this work there's been published, on _Journal of Environmental Activity_, a lot of papers about Fukushima:  
+[_Evidence of the radioactive fallout in the center of Asia (Russia) following the Fukushima Nuclear Accident_](http://dx.doi.org/10.1016/j.jenvrad.2011.06.007) by **A. Bolsunovsky** and **D. Dementyev**
+
+> It was recently reported that radioactive fallout due to the Fukushima Nuclear Accident was detected in environmental samples collected in the USA and Greece, which are very far away from Japan. In April–May 2011, fallout radionuclides (134Cs, 137Cs, 131I) released in the Fukushima Nuclear Accident were detected in environmental samples at the city of Krasnoyarsk (Russia), situated in the center of Asia. Similar maximum levels of 131I and 137Cs/134Cs and 131I/137Cs ratios in water samples collected in Russia and Greece suggest the high-velocity movement of the radioactive contamination from the Fukushima Nuclear Accident and the global effects of this accident, similar to those caused by the Chernobyl accident.
+
+[_Short and long term dispersion patterns of radionuclides in the atmosphere around the Fukushima Nuclear Power Plant_](http://dx.doi.org/10.1016/j.jenvrad.2011.07.010) by **Ádám Leelőssy**, **Róbert Mészáros**, **István Lagzi**
+
+> The Chernobyl accident and unfortunately the recent accident at the Fukushima 1 Nuclear Power Plant are the most serious accidents in the history of the nuclear technology and industry. Both of them have a huge and prolonged impact on environment as well as human health. Therefore, any technological developments and strategies that could diminish the consequences of such unfortunate events are undisputedly the most important issues of research. Numerical simulations of dispersion of radionuclides in the atmosphere after an accidental release can provide with a reliable prediction of the path of the plume. In this study we present a short (one month) and a long (11 years) term statistical study for the Fukushima 1 Nuclear Power Plant to estimate the most probable dispersion directions and plume structures of radionuclides on local scale using a Gaussian dispersion model. We analyzed the differences in plume directions and structures in case of typical weather/circulation pattern and provided a statistical-climatological method for a “first-guess” approximation of the dispersion of toxic substances. The results and the described method can support and used by decision makers in such important cases like the Fukushima accident.
+
+[_Arrival time and magnitude of airborne fission products from the Fukushima, Japan, reactor incident as measured in Seattle, WA, USA_](http://dx.doi.org/10.1016/j.jenvrad.2011.06.005) by **J. Diaz Leon** _et al._ ([pdf from arXiv](http://arxiv.org/pdf/1103.4853))
+
+> We report results of air monitoring started due to the recent natural catastrophe on 11 March 2011 in Japan and the severe ensuing damage to the Fukushima Dai-ichi nuclear reactor complex. On 17–18 March 2011, we registered the first arrival of the airborne fission products 131I, 132I, 132Te, 134Cs, and 137Cs in Seattle, WA, USA, by identifying their characteristic gamma rays using a germanium detector. We measured the evolution of the activities over a period of 23 days at the end of which the activities had mostly fallen below our detection limit. The highest detected activity from radionuclides attached to particulate matter amounted to 4.4 ± 1.3 mBq m−3 of 131I on 19–20 March.
+
+From arXiv [_Aerial Measurement of Radioxenon Concentration off the West Coast of Vancouver Island following the Fukushima Reactor Accident_ by **L. E. Sinclair** _et al._
+
+> In response to the Fukushima nuclear reactor accident, on March 20th, 2011, Natural Resources Canada conducted aerial radiation surveys over water just off of the west coast of Vancouver Island. Dose-rate levels were found to be consistent with background radiation, however a clear signal due to Xe-133 was observed. Methods to extract Xe-133 count rates from the measured spectra, and to determine the corresponding Xe-133 volumetric concentration, were developed. The measurements indicate that Xe-133 concentrations on average lie in the range of 30 to 70 Bq/m3.
+
+At the end](http://arxiv.org/abs/1106.4043) [_The time variation of dose rate artificially increased by the Fukushima nuclear crisis_](http://www.nature.com/srep/2011/110907/srep00087/full/srep00087.html) by **Masahiro Hosoda** _et al._ from _Scientific Reports_: ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1743073210641/667cff11-5f63-4b8a-ba1d-8dd387bdf631.jpeg)
+
+> A car-borne survey for dose rate in air was carried out in March and April 2011 along an expressway passing northwest of the Fukushima Dai-ichi Nuclear Power Station which released radionuclides starting after the Great East Japan Earthquake on March 11, 2011, and in an area closer to the Fukushima NPS which is known to have been strongly affected. Dose rates along the expressway, i.e. relatively far from the power station were higher after than before March 11, in some places by several orders of magnitude, implying that there were some additional releases from Fukushima NPS. The maximum dose rate in air within the high level contamination area was 36 μGy h−1, and the estimated maximum cumulative external dose for evacuees who came from Namie Town to evacuation sites (e.g. Fukushima, Koriyama and Nihonmatsu Cities) was 68 mSv. The evacuation is justified from the viewpoint of radiation protection.
+
+And now the video news about France accident:
