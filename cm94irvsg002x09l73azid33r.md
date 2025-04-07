@@ -14,12 +14,6 @@ About 90 percent of all stars, those with an initial mass up to about eight time
 
 A recent study, published on *Nature Astronomy*, take more evidence that white dwarfs can give answers on the origin of carbon in the Milky Way.
 
-<div
-style="
-   margin: 15px;
-   padding: 5px 5px 5px 5px;
-   background: #fafafa;
-   border: 1px solid #4284b0;"
->- Marigo, P., Cummings, J. D., Curtis, J. L., Kalirai, J., Chen, Y., Tremblay, P. E., ... & Girardi, L. (2020). Carbon star formation as seen through the non-monotonic initial–final mass relation. *Nature Astronomy*, 1-9. doi:[10.1038/s41550-020-1132-1](https://doi.org/10.1038/s41550-020-1132-1)</div>
+<div>- Marigo, P., Cummings, J. D., Curtis, J. L., Kalirai, J., Chen, Y., Tremblay, P. E., ... & Girardi, L. (2020). Carbon star formation as seen through the non-monotonic initial–final mass relation. *Nature Astronomy*, 1-9. doi:[10.1038/s41550-020-1132-1](https://doi.org/10.1038/s41550-020-1132-1)</div>
 
 <small>*In the image: NGC 7789. Credit: Guillaume Seigneuret. Nasa.*</small>
