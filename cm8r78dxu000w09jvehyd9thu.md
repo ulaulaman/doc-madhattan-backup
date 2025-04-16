@@ -5,11 +5,10 @@ seoDescription: "Explore John Conway's contributions to mathematics, including t
 datePublished: Sun Apr 12 2020 14:57:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm8r78dxu000w09jvehyd9thu
 slug: maths-in-europe-john-conway
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1744835193566/7d743da8-1e69-40d3-a594-8633f15a0f3a.jpeg
 tags: mathematics, game-of-life, john-conway
 
 ---
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1743070602847/e0c038fd-445b-49b4-82da-cf75a30b2fd7.jpeg align="center")
 
 > Sometimes I wish I hadn’t invented that game.  
 > – **John Horton Conway** about the *Game of life* <sup>(3)</sup>
@@ -21,7 +20,7 @@ The theorem was proposed by Conway with **Simon Kochen**, inspired by the questi
 > If the choice of directions in which to perform spin 1 experiments is not a function of the information accessible to the experimenters, then the responses of the particles are equally not functions of the information accessible to them. <sup>(2)</sup>
 
 That is, the theorem states that the outcome of the experiment is independent of the choices made by the experimenters. Or if you prefer that the eyes of the experimenters does not influence the outcome of the experiment (and therefore does not change the universe).
- 
+
 In the following the two mathematicians are concerned with showing the consistency of the theorem with quantum mechanics, first of all showing that this is only one of the last arguments against the hidden variables of **David Bohm**, proposed to restore the determinism lost by quantum mechanics.
 
 The other interesting effort of the two mathematicians is to reconcile everything, at least from a logical-philosophical point of view, with relativity. In their judgment, after introducing a series of concepts, such as actual randomness (the universe would appear random from any reference system), Conway and Kochen show a series of errors of interpretation related to the EPR paradox that would push physicists to believe the existence of violations of the principle of randomness (and therefore of relativity). The point is that if in the system of the two connected states A, B the spin A is measured and it is down, it is much more correct to say that if the measurement is performed on B its spin will be up and not the spin of B is instantly up.
