@@ -5,6 +5,7 @@ seoDescription: "Explore the role of neural networks in astronomy, from image an
 datePublished: Sun Nov 24 2013 20:20:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm8r7p444000w09jr8zaybcqd
 slug: neural-networks-and-astronomy
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1744836477557/09ec08e7-dddc-43db-9f2d-96d98ca25f00.jpeg
 tags: neural-networks, astronomy
 
 ---
@@ -15,8 +16,8 @@ I published this post some years ago ([archived version](https://web.archive.org
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1743071378482/4abde75b-cfdd-481c-a936-fc1c090625f9.jpeg align="center")
 
-Neural network is one of the most powered method to analize data. It can be use in most research subject, for example in astronomy: in this case, we can use NNs to examine astronomical images or also the red shift effect. For example, in 2003 **Jorge Núñez** (Universitad de Barcelona) and **Jorge Llacer** (EC Engineering Consultants LLC) published a paper(1) in which they describe the develop of an algorithm to study *astronomical image segmentation that uses a self-organizing neural network as basis*. In their work, the scientists examine the separation between some stars and also a Saturn's image: the alghoritm seems quite robust against noise and fragmentation.  
-In the same year, a group of italian astronomers published a review of the models used in astronomy and examined some data used by **AstroNeural** collaboration. Finally in 2004 a collaboration between researchers in Italy, Germany and France perform an application of NNs to redshift calculations(3).  
+Neural network is one of the most powered method to analize data. It can be use in most research subject, for example in astronomy: in this case, we can use NNs to examine astronomical images or also the red shift effect. For example, in 2003 **Jorge Núñez** (Universitad de Barcelona) and **Jorge Llacer** (EC Engineering Consultants LLC) published a paper<sup>(1)</sup> in which they describe the develop of an algorithm to study *astronomical image segmentation that uses a self-organizing neural network as basis*. In their work, the scientists examine the separation between some stars and also a Saturn's image: the alghoritm seems quite robust against noise and fragmentation.  
+In the same year, a group of italian astronomers published a review of the models used in astronomy and examined some data used by **AstroNeural** collaboration. Finally in 2004 a collaboration between researchers in Italy, Germany and France perform an application of NNs to redshift calculations<sup>(3)</sup>.  
 Now you can quest: *What is a neural network?*  
 Simply is a system of *node* and *link*. In the structure we can eventually distinguished between different layers, and every layers are fully connected. Such networks are usually called *Multilayer Perceptron* NN, and the interaction between every node is modelled by the following funcition
 
@@ -33,7 +34,7 @@ There is also the self-organizing maps, in which every node, or neurons, are in 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1743071379736/c261ddf0-cd42-48b3-b571-18562f4b20a2.jpeg align="center")
 
 It's possible implement NNs with fuzzy logic and perform image segmentation, object detection, noise identification (for example in detection of gravitational waves), estimation of redshifts. The great advantage using NNs in astronomy is, however, to perform complex calculations with usually alghoritms.  
-For example, we can see the plots in Vanzella's et al. paper(3). In the work, astronomers used a *Multilayer Perceptron* NN, using real data from Hubble Deep Field North dataset.
+For example, we can see the plots in Vanzella's et al. paper<sup>(3)</sup>. In the work, astronomers used a *Multilayer Perceptron* NN, using real data from Hubble Deep Field North dataset.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1743071380981/834324bd-d42f-4e81-9489-f4836822d8ce.jpeg align="center")
 
