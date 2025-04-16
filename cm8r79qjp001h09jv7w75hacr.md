@@ -5,11 +5,10 @@ seoDescription: "Explore the intriguing world of lunar arithmetic, a unique math
 datePublished: Sat Sep 21 2019 15:43:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm8r79qjp001h09jv7w75hacr
 slug: maths-in-europe-lunar-arithmetic
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1744835684188/c0048050-3d94-4cfe-8f34-fc9b9d1612ed.jpeg
 tags: video, mathematics, moon, number-theory, numperphile
 
 ---
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1743070665771/b9fc6415-c4c1-4a16-b78c-c62d4f635a97.jpeg align="center")
 
 One of the most popular expressions in Italy for giving strength to numbers is *mathematics is not an opinion*. The expression is [exclusively Italian](https://web.archive.org/web/20220715190258/https://www.ilpost.it/mauriziocodogno/2014/01/04/la-matematica-unopinione-pillole/) and mathematicians don't agree with this opinion, since they have fun inventing a large number of different mathematics. For example, a curious mathematics is what today called *lunar arithmetic*. In this kind of arithmetic, the sum between two digits gives the largest digit, while the product between two digits gives the smallest one. A particular consequence of the multiplication rule is the definition of prime numbers: in base 10 a *lunar prime number* is a number divisible only by itself and by 9, because the neutral element of *lunar multiplication* is 9.
 
