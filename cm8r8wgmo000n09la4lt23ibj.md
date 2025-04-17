@@ -10,7 +10,7 @@ tags: mathematics, alan-turing, morphogenesis
 
 ---
 
-*One hundred years ago was born* ***Alan Turing****. He was known essentially for his role during the Second World War: he encrypted the Enigma machine. But He is also a brillant mathematichian and today I would try to describe one of his better model, that today biologists are applying to their research field.*
+<em>One hundred years ago was born **Alan Turing**. He was known essentially for his role during the Second World War: he encrypted the Enigma machine. But He is also a brillant mathematichian and today I would try to describe one of his better model, that today biologists are applying to their research field.</em>
 
 > A vibrating object tends to vibrate at certain preferred frequencies, called natural frequencies. These frequencies depend on properties such as the density and tension of the vibrating object. Mathematicians and physicists can determine the natural frequencies of an object when they know the values for these other properties. This article describes new work being done to solve the reverse problem - calculation of properties such as density when the natural frequencies of the object are known.
 
