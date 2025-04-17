@@ -10,7 +10,7 @@ tags: physics, mathematics, maxwell-equations, beatles
 
 ---
 
-*This post was republished in Mathematics in Europe on 17/06/2017 ([archived version](https://web.archive.org/web/20220524010708/http://mathematics-in-europe.eu/?p=1120)*
+*This post was republished in Mathematics in Europe on 17/06/2017 ([archived version](https://web.archive.org/web/20220524010708/http://mathematics-in-europe.eu/?p=1120))*
 
 The following video is a song about Maxwell's equations. Lyrics are written by **David Olson** with the basis of *Let it be* by ***Beatles***.  
 Enjoy!
