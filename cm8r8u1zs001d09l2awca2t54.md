@@ -1,8 +1,10 @@
 ---
 title: "Ratios of Iodine-131 to Cesium-137 at the Fukushima reactors"
+seoDescription: "Analysis of Iodine-131 to Cesium-137 ratios at Fukushima reveals potential post-earthquake nuclear reactions and contamination challenges"
 datePublished: Wed May 04 2011 23:36:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm8r8u1zs001d09l2awca2t54
 slug: ratios-of-iodine-131-to-cesium-137-at-the-fukushima-reactors
+tags: physics, mathematics, fukushima, radioactivity
 
 ---
 
