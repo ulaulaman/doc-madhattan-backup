@@ -8,7 +8,6 @@ tags: physics, mathematics, fukushima, radioactivity
 
 ---
 
-
 A few days ago it was uploaded on arXiv a preprint about radiactions from Fukushima reactors, [*Deciphering the measured ratios of Iodine-131 to Cesium-137 at the Fukushima reactors*](http://arxiv.org/abs/1105.0242), by **T. Matsui** (University of Tokyo).  
 In the preprint, Matsui propose some simple theoretical calculations to evaluate the situation of TEPCO's reactors.  
 The physical basis is the radioactive decay,
@@ -19,7 +18,7 @@ where \\(N_0\\) is the number of nucleus at time \\(t_0\\) (in the beginning), \
 To calculate the equation we start from the experimental law,
 
 $$\frac{\text d N (t)}{\text d t} = - N(t) \lambda$$
-  
+
 For his calculation, Matsui used the following differential equation
 
 $$\frac{\text d N_I (t)}{\text d t} = f_I N_0 \theta (t;t_i, t_f) - \lambda_I N_I$$
@@ -41,16 +40,18 @@ and the ratio:
 
 $$R (t) = \frac{f_I}{f_{Cs}} \frac{\tau_{Cs}}{\Delta t \ln 2} \left ( \frac{1}{2} \right )^{(t-t_f)/\tau_I}$$
 
-Finally Matsui confront theoretical calculation with data released by TEPCO. He produced the following two plots:  
+Finally Matsui confront theoretical calculation with data released by TEPCO. He produced the following two plots:
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1743073291659/80e4d185-62b4-45e4-8b3b-56db7ad6f39e.jpeg)  
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1743073291659/80e4d185-62b4-45e4-8b3b-56db7ad6f39e.jpeg align="center")
+
 *Ratio of the radioactivities of I-131 and Cs-137 plotted against number of days since the earthquake (March 11, 2011). The blue solid line (\\(\Delta t\\) = 12 months) and the blue dashed line (\\(\Delta t\\) = 7 months) are the theoretical lines based on the ratio formula; the blue dots are the measured ratios from the samples of sea water taken at the southern monitoring post. The red dots are the data of the water samples of the unit-4 reactor cooling pool.*
 
 For the second plot, Matsui calculates a ratio-bis formula:
 
 $$R^{\text{new}} (t) = \frac{f_I}{f_{Cs}} \frac{\tau_{Cs}}{\tau_I} e^{(t-t'_f)}$$
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1743073293550/ba6385b7-2b21-48dd-a224-abeee904a0d1.jpeg)  
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1743073293550/ba6385b7-2b21-48dd-a224-abeee904a0d1.jpeg align="center")
+
 *Same plot as fig. 1, now including the data of the water samples taken from the sub-drains near the unit 1 (green), unit 2 (gray), unit 3 (cyan) and unit 4 (pink) reactor buildings. Two more theoretical lines are shown as a guide to the eye; they are computed from ratio formula with \\(\Delta t\\) = 3 months (dashed green) and ratio-bis formula with \\(t′_f = t_X\\) (solid red) which gives an upper bound if the fission ends on X-day.*
 
 Repleacing \\(t'_f\\) with \\(t\_X\\), that is the time of earthquake, produces *an upper bound on the radioactivity ratio*.  
@@ -67,12 +68,15 @@ In conclusion:
 
 > some of these fission products were produced by chain nuclear reactions reignited after the earthquake.
 
-It's very important to remember the hypotesis of the work:  
+It's very important to remember the hypotesis of the work:
 
-*   Following [Libby, Anderson and Arnold](http://www.sciencemag.org/content/109/2827/227.extract), Matsui's ratio *should decrease on the time scale of days after the termination of nuclear fission processes and hence may be used for measuring the age of the fission products, similar to the carbon dating method using the ratio of C-14 to C-12 in the remains of ancient life*. But there are two problems: the measured ratio depend by the controlled nuclear reaction; the effects of the different chemical properties of iodine and cesium.
-*   Matsui *assumed that the solubility of iodine or cesium in water is not changed considerably by boric acid, which has been added to the water to suppress chain nuclear reactions.*
-*   *The total amount of the radioactivity by I-131 contained in the unit 4 cooling pool, which normally contains about 1500 tons of water, may be estimated as 220×1.5×109 = 3.3×1011 Bq which is small compared to the radioactivity of fresh fission products contained in the nuclear reactor, which is the order of 1018 Bq.*
+* Following [Libby, Anderson and Arnold](http://www.sciencemag.org/content/109/2827/227.extract), Matsui's ratio *should decrease on the time scale of days after the termination of nuclear fission processes and hence may be used for measuring the age of the fission products, similar to the carbon dating method using the ratio of C-14 to C-12 in the remains of ancient life*. But there are two problems: the measured ratio depend by the controlled nuclear reaction; the effects of the different chemical properties of iodine and cesium.
+    
+* Matsui *assumed that the solubility of iodine or cesium in water is not changed considerably by boric acid, which has been added to the water to suppress chain nuclear reactions.*
+    
+* *The total amount of the radioactivity by I-131 contained in the unit 4 cooling pool, which normally contains about 1500 tons of water, may be estimated as 220×1.5×109 = 3.3×1011 Bq which is small compared to the radioactivity of fresh fission products contained in the nuclear reactor, which is the order of 1018 Bq.*
+    
 
-In every case, the paper seems indicate a very difficult situation around reactor.  
-  
-(via [_Nature_ blog](http://blogs.nature.com/news/2011/05/analysis_suggests_fukushima_re_1.html))
+In every case, the paper seems indicate a very difficult situation around reactor.
+
+(via [*Nature* blog](http://blogs.nature.com/news/2011/05/analysis_suggests_fukushima_re_1.html))
